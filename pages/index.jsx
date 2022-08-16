@@ -45,9 +45,9 @@ export default function Index() {
                     Serving Ingenuinty and Originality
                 </div>
                 <div className="description">
-                    Focus is a full-service agency that's been purpose-built to help organizations thrive in an increasingly complex landscape.
+                    Focus is a full-service agency thats been purpose-built to help organizations thrive in an increasingly complex landscape.
                 </div>
-                <button>Let's Talk</button>
+                <button>Lets Talk</button>
             </div>
             <div className="Image man">
                 <Image src={img1.src} layout='fill' objectFit="contain" />
