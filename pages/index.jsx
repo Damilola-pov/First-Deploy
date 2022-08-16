@@ -42,7 +42,7 @@ export default function Index() {
         <div className="main-box">
             <div className="introduction">
                 <div className="motto">
-                    Serving Ingenuinty & Originality
+                    Serving Ingenuinty and Originality
                 </div>
                 <div className="description">
                     Focus is a full-service agency that's been purpose-built to help organizations thrive in an increasingly complex landscape.
@@ -79,7 +79,7 @@ export default function Index() {
 
         <div className="services">
             <p>Our Best</p>
-            <p className="feature">Features & Services</p>
+            <p className="feature">Features and Services</p>
             <div className="services-list">
                 <div className="webdev">
                     <div className="Image icon"><Image src={email.src} layout='fill' objectFit="contain" /></div>
@@ -147,18 +147,18 @@ export default function Index() {
                     <div className="boxes-about1">
                         <div className="box1">
                             <div className="Image badge"><Image src={badge.src} layout='fill' objectFit="cover" /></div>
-                            <p>Professional & Certified Company</p>
+                            <p>Professional and Certified Company</p>
                         </div>
                         <div className="box1">
                             <div className="Image badge"><Image src={thinking.src} layout='fill' objectFit="cover" /></div>
-                            <p>Pixel & Perfect Design</p>
+                            <p>Pixel and Perfect Design</p>
                         </div>
                     </div>
 
                     <div className="boxes-about2">
                         <div className="box1">
                             <div className="Image badge"><Image src={lightbulb.src} layout='fill' objectFit="cover" /></div>
-                            <p>Business & Product Concept</p>
+                            <p>Business and Product Concept</p>
                         </div>
                         <div className="box1">
                             <div className="Image badge"><Image src={handshake.src} layout='fill' objectFit="cover" /></div>
@@ -186,7 +186,7 @@ export default function Index() {
         <div className="blog">
             <div className="blog-head">
                 <p>Blog</p>
-                <p className="blog-header">News & Insights</p>
+                <p className="blog-header">News and Insights</p>
             </div>
 
             <div className="blog-list">
