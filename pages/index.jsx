@@ -20,7 +20,7 @@ import worldmap from "../public/worldmap.png";
 import solana from "../public/solana.png";
 import ai from "../public/ai.png";
 import soulbound from "../public/soulbound.png";
-import hermes from "../public/hermes.png";
+import hermes from "../public/Hermes.png";
 
 
 export default function Index() {
